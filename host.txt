@@ -93,6 +93,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 gamesecurity.us.freefiremobile.com
 0.0.0.0 gin.freefiremobile.com
 0.0.0.0 hotro.ff.garena.vn
+0.0.0.0 appsflyer.com
+0.0.0.0 com.dts.freefiremax
+0.0.0.0 com.dts.freefiremax-game_func_rec
+0.0.0.0 com.dts.freefireth
+0.0.0.0 com.dts.freefireth-game_func_rec
+0.0.0.0 dl.listdl.com
+0.0.0.0 ff.dr.grtcgarenanow.com
+0.0.0.0 ff.garena.com
+0.0.0.0 gamesecuity.us.freefiremobile.com
+0.0.0.0 garena.co.id
+0.0.0.0 garena.com
+0.0.0.0 garenanow.com
+0.0.0.0 gin.freefeirenid.in
+0.0.0.0 gin.freefiremobile.com
+
 # End yoyo.org
 
 # blacklist
